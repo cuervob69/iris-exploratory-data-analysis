@@ -5,42 +5,47 @@ The repository's purpose is to compare and contrast two possible ways of doing o
 
 Each report is identically organized into five parts:
 
-Introduction
-Loading libraries and data set
-Exploratory Data Analysis 3.1 Tables 3.2 Visualizations
-Correlation analysis
-Conclusion
+1. Introduction
+2. Loading libraries and data set
+3. Exploratory Data Analysis 3.1 Tables 3.2 Visualizations
+4. Correlation analysis
+5. Conclusion
+
 A judgment on minimal tables and visualizations that an EDA on this topic should have is done, also, a correlation analysis is done, which may be or not part of an EDA.
 
 The tables are:
 
-Data set view
-Data set Structure / Information
-Response view
-Missing values
-Data set summary
-Response view summary
-Correlation matrix
+- Data set view
+- Data set Structure / Information
+- Response view
+- Missing values
+- Data set summary
+- Response view summary
+- Correlation matrix
+
 And the visualizations are:
 
-Histograms
-Bar plots / Distribution plots
-Box plots
-Violin plots
-Density plots (Kernel Density Estimator)
-Scatter plots / Relational plots
-Pair plots
-Correlation plots
+- Histograms
+- Bar plots / Distribution plots
+- Box plots
+- Violin plots
+- Density plots (Kernel Density Estimator)
+- Scatter plots / Relational plots
+- Pair plots
+- Correlation plots
+
 Concerning libraries/packages, base / built-in functions are utilized in prevalence, unless there is no known function to perform a task, most popular libraries/packages functions are utilized. The libraries/packages utilized, according to each statistical software/programming language, are:
 
 R
 
-tidyverse
-ggcorrplot
+- tidyverse
+- ggcorrplot
+
 Python
 
-numpy
-pandas
-matplotlib
-seaborn
+- numpy
+- pandas
+- matplotlib
+- seaborn
+
 The two main files in these repositories are the one in R (.R) and the one in Python (.ipynb).
