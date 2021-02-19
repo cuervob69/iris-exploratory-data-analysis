@@ -49,3 +49,5 @@ Python
 - seaborn
 
 The two main files in these repositories are the one in R (.R) and the one in Python (.ipynb).
+
+Search or jump to "r_versus_python_iris_eda_example" in https://github.com/ to watch the repository.
