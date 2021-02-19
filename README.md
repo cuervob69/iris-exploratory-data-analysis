@@ -1,10 +1,53 @@
-# iris-exploratory-data-analysis
-Iris Flower Data Set Exploratory Data Analysis
+# r_versus_python_iris_eda_example
+This repository presents two reports on the same topic, an Exploratory Data Analysis (EDA) on the Iris flower data set, one done in R and the other one in Python.
 
-The Iris flower data set consists of flower samples from three species of Iris plant (Iris setosa, Iris virginica and Iris versicolor), showing measures in centimeters of length and width of each type of flower's sepals and petals example.
+The repository's purpose is to compare and contrats two possible ways of doing one unique project, the R way and the Python way. The idea is to have a first hand experience with each tool performing the same projects' tasks. This way one can learn the simmilarities and differences of each statistical software / programming language doing the same task.
 
-This report presents an exploratory data analysis (EDA) of the Iris data set, which is a statistical approach to analyzing data sets whose the main purpose is to summarize their characteristics, usually in form of tables or visualizations.
+Each report is identically organized into five parts:
 
-The report is organized into five parts, first, this introduction, second, loading libraries and data set, third, the EDA itself, divided into tables and visualizations, fourth, correlation analysis, and fifth, conclusion.
+1. Introduction
+2. Loading libraries and data set
+3. Exploratory Data Analysis
+3.1 Tables
+3.2 Visualizations
+4. Correlation analysis
+5. Conclusion
 
-This is a project made in and Python with JupyterLab Notebook.
+A judgement on minimal tables and visualizations that an EDA on this topic should have is done, also, a correlation analysis is done, which may be or not part of an EDA.
+
+The tables are:
+
+- Data set view
+- Data set Structure / Information
+- Response view
+- Missing values
+- Data set summary
+- Response view summary
+- Correlation matix
+
+And the visualizations are:
+
+- Histograms
+- Bar plots / Distribution plots
+- Box plots
+- Violin plots
+- Density plots (Kernel Density Estimator)
+- Scatter plots / Relational plots
+- Pair plots
+- Correlation plots
+
+Concerning libraries / packages, base / built-in functions are utilized in prevalence, unless there is not known function to perform a task, most popular libraries / packages functions are utilized. The libraries / packages utilized, acoording to each statistical software / programming language, are:
+
+R
+
+- tidyverse
+- ggcorrplot
+
+Python
+
+- numpy
+- pandas
+- matplotlib
+- seaborn
+
+The two main files in this repositories are the one in R (.R) and the one in Python (.ipynb).
