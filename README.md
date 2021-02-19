@@ -1,5 +1,5 @@
 # r_versus_python_iris_eda_example
-This repository presents two reports on the same topic, and Exploratory Data Analysis (EDA) on the Iris flower data set, one done in R and the other one in Python.
+This repository presents two reports on the same topic, and an Exploratory Data Analysis (EDA) on the Iris flower data set, one done in R and the other one in Python.
 
 The repository's purpose is to compare and contrast two possible ways of doing one unique project, the R way, and the Python way. The idea is to have a first-hand experience with each tool performing the same projects' tasks. This way one can learn the similarities and differences of each statistical software/programming language doing the same task.
 
@@ -7,7 +7,9 @@ Each report is identically organized into five parts:
 
 1. Introduction
 2. Loading libraries and data set
-3. Exploratory Data Analysis 3.1 Tables 3.2 Visualizations
+3. Exploratory Data Analysis
+   3.1 Tables 
+   3.2 Visualizations
 4. Correlation analysis
 5. Conclusion
 
@@ -34,7 +36,7 @@ And the visualizations are:
 - Pair plots
 - Correlation plots
 
-Concerning libraries/packages, base / built-in functions are utilized in prevalence, unless there is no known function to perform a task, most popular libraries/packages functions are utilized. The libraries/packages utilized, according to each statistical software/programming language, are:
+Concerning libraries/packages, base/built-in functions are utilized in prevalence, unless there is no known function to perform a task, most popular libraries/packages functions are utilized. The libraries/packages utilized, according to each statistical software/programming language, are:
 
 R
 
