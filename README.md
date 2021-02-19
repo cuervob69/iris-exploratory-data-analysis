@@ -7,9 +7,7 @@ Each report is identically organized into five parts:
 
 1. Introduction
 2. Loading libraries and data set
-3. Exploratory Data Analysis
-3.1. Tables 
-3.2. Visualizations
+3. Exploratory Data Analysis (Tables and Visualizations)
 4. Correlation analysis
 5. Conclusion
 
